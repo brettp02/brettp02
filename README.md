@@ -94,10 +94,8 @@
 
 
 ## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brettp02&show_icons=true&theme=dark&rank_icon=github&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brettp02&layout=compact&theme=dark&cache_seconds=1800" height="170"/>
+<p>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brettp02&layout=compact&theme=dark&cache_seconds=86400)
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/brettp02?theme=dark&font=baloo&ext=contest)
