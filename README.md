@@ -95,8 +95,8 @@
 
 ## 📊 Stats
 <div align="center">
-
 <img src="https://github-readme-stats-rose-five.vercel.app/api/top-langs/?username=brettp02&layout=compact&theme=dark&hide_border=true" height="165"/>
+
 
 <img src="https://leetcard.jacoblin.cool/brettp02?theme=dark&font=baloo&ext=contest" height="165"/>
 
