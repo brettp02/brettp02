@@ -85,3 +85,9 @@
 
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brettp02&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brettp02&layout=compact&theme=dark)
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=brettp02&theme=dark)
+
