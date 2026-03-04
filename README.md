@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **TerraVision**
 
-- 🌱 I'm currently learning **Advanced React / Next.js features**
+- 🌱 Currently deepening my knowledge of advanced React and Next.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
