@@ -1,16 +1,25 @@
+<p align="center">
+
 # Hi 👋 I'm Brett
 
-### Computer Science graduate building full-stack machine learning and data-driven applications.
+### A Computer Science graduate building full-stack machine learning and data-driven applications.
+
+</p>
+<br>
 
 • 🔭 Currently building **TerraVision**  
 • 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
 • 🧠 Interested in **AI, data science, and software development**
+
+<br>
 
 ## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,postgres,docker,aws,git,linux" />
 </p>
+
+
 
 ## 📊 Stats
 
