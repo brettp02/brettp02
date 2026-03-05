@@ -1,6 +1,6 @@
 # Hi 👋 I'm Brett
 
-### A Computer Science graduate building full-stack machine learning and data-driven applications.
+#### A Computer Science graduate building full-stack machine learning and data-driven applications.
 
 • 🔭 Currently building **TerraVision**  
 • 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
