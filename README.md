@@ -1,28 +1,12 @@
 # Hi 👋 I'm Brett
 
-#### A Computer Science graduate building full-stack machine learning and data-driven applications.
+### Computer Science graduate building full-stack machine learning and data-driven applications.
 
 • 🔭 Currently building **TerraVision**  
 • 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
-• 🧠 Interested in **AI, data science, and software engineering — particularly building real-world applications**
+• 🧠 Interested in **AI, data science, and software development**
 
-## 🚀 Featured Project
-
-### TerraVision — Satellite Image Classification System
-
-An end-to-end deep learning system for classifying satellite imagery using a ResNet50 model trained on the EuroSAT dataset.
-
-**Stack**
-
-• Python  
-• PyTorch deep learning model  
-• FastAPI inference API  
-• Next.js frontend  
-• Full-stack deployment pipeline  
-
-🔗 https://github.com/brettp02/terravision-api
-
-## 🔧 Languages and Tools
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,postgres,docker,aws,git,linux" />
