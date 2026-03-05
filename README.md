@@ -6,19 +6,18 @@
 
 </p>
 
-• 🔭 Currently building **TerraVision**  
-• 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
-• 🧠 Interested in **AI, data science, and software development**
+- 🔭 Currently building **TerraVision**  
+- 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
+- 🧠 Interested in **AI, data science, and software development**
+- 🏄‍♂️ Outside of tech, I enjoy **strength training, music production, guitar, reading, and going to the beach** 
 
 <br>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,postgres,docker,aws,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nextjs,postgres,docker,aws,git,linux" />
 </p>
-
-
 
 ## 📊 Stats
 
