@@ -5,7 +5,6 @@
 ### A Computer Science graduate building full-stack machine learning and data-driven applications.
 
 </p>
-<br>
 
 • 🔭 Currently building **TerraVision**  
 • 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
