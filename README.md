@@ -2,14 +2,13 @@
 
 Computer Science graduate building full-stack machine learning and data-driven applications.
 
-- 🔭 Currently building **TerraVision**
-- 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
-- 🧠 Interested in **AI, data science, and software engineering — particularly building real-world applications**
----
+• 🔭 Currently building **TerraVision**  
+• 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
+• 🧠 Interested in **AI, data science, and software engineering — particularly building real-world applications**
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## TerraVision — Satellite Image Classification System
+### TerraVision — Satellite Image Classification System
 
 An end-to-end deep learning system for classifying satellite imagery using a ResNet50 model trained on the EuroSAT dataset.
 
@@ -23,17 +22,13 @@ An end-to-end deep learning system for classifying satellite imagery using a Res
 
 🔗 https://github.com/brettp02/terravision-api
 
----
-
-# 🔧 Languages and Tools
+## 🔧 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nextjs,postgres,docker,aws,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,postgres,docker,aws,git,linux" />
 </p>
 
----
-
-# 📊 Stats
+## 📊 Stats
 
 <div align="center">
 
