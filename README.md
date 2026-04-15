@@ -9,7 +9,6 @@
 - 🔭 Currently working on **TerraVision**  
 - 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
 - 🧠 Interested in **AI, data science, and software development**
-- 🏄‍♂️ Outside of tech, I enjoy **strength training, music production, guitar, reading, and going to the beach** 
 
 <br>
 
