@@ -6,8 +6,8 @@
 
 </p>
 
-- 🔭 Currently working on **TerraVision**  
-- 🌱 Learning more about **machine learning systems, data engineering, and modern web development**  
+- 🔭 Currently working on **DialedIn**  
+- 🌱 Learning more about **machine learning systems and data engineering**  
 - 🧠 Interested in **AI, data science, and software development**
 
 <br>
