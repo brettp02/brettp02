@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Brett
 
-### A Computer Science graduate building full-stack machine learning and data-driven applications.
+### A Computer Science graduate building full-stack AI and data-driven applications.
 
 </p>
 
