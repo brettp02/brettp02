@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Brett
 
-### A Computer Science graduate building full-stack AI and data-driven applications.
+### A Python & React dev building full-stack AI/data-driven applications.
 
 </p>
 
