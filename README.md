@@ -1,6 +1,6 @@
 <p align="center">
 
-# Hi 👋, I'm Brett
+# Hi👋 I'm Brett
 
 ### A Python & React dev building full-stack AI/data-driven applications.
 
